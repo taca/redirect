@@ -1,4 +1,4 @@
-<?php if (!defined('TL_ROOT')) die('You can not access this file directly!');
+<?php
 
 /**
  * PHP version 5
@@ -15,4 +15,3 @@ $GLOBALS['TL_LANG']['FMD']['nonSslRedirect']	= array('Non-SSL redirect', 'This m
 $GLOBALS['TL_LANG']['FMD']['loginRedirect']		= array('Redirect logged-in members', 'This module redirects members, which are logged in.');
 $GLOBALS['TL_LANG']['FMD']['browserRedirect']	= array('Browser (version) redirect', 'This module redirects visitors, depending on the browser or the browser version they use (configurable).');
 $GLOBALS['TL_LANG']['FMD']['osRedirect']		= array('OS redirect', 'This module redirects, depending on the OS of the vistir.');
-

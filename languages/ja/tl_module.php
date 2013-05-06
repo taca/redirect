@@ -67,5 +67,3 @@ $GLOBALS['TL_LANG']['tl_module']['osredirectList']['symbian'] = "Symbian";
 $GLOBALS['TL_LANG']['tl_module']['osredirectList']['webos'] = "WebOS";
 $GLOBALS['TL_LANG']['tl_module']['osredirectList']['unix'] = "Linux, FreeBSD, OpenBSD, NetBSD";
 $GLOBALS['TL_LANG']['tl_module']['osredirectList']['other'] = "その他";
- 
-?>
