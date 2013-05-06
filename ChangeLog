@@ -1,0 +1,9 @@
+2013-05-06  Takahiro Kambe  <taca>
+
+	* Add README.md.
+
+	* Add autoload.ini and autoload.php to support Contao 3.
+
+2012-11-30  Takahiro Kambe  <taca>
+
+	* Initial import of redirect version 1.5.0 stable.
