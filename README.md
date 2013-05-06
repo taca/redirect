@@ -20,3 +20,6 @@ visitors:
 * Browser/browser version redirect: Allows visitors from eg. iPhone or Internet Explorer 6 to be redirected to a specific page (can be done just once using a cookie)
 * OS redirect: Allows internal or external redirects based on the client OS (Windows, Mac, iOS, Android, ...)
 
+## LICENSE
+
+License is the same as Contao; GNU LGPL 2 or later.
