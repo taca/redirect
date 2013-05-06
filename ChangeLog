@@ -1,5 +1,13 @@
 2013-05-06  Takahiro Kambe  <taca>
 
+	* Make it version 1.6.0 rc1.
+
+	* Miscellaneous fixes.
+
+	* Add autoload.php to support Contao 3.
+
+2013-05-06  Takahiro Kambe  <taca>
+
 	* Add README.md.
 
 	* Add autoload.ini and autoload.php to support Contao 3.
